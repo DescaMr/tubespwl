@@ -20,11 +20,9 @@
 </head>
 
 <body class="bg-gray-100 font-family-karla flex">
-  {{-- <div class="w-full flex flex-col h-screen overflow-y-hidden"> --}}
-
-    
-  <x-navbar/> 
-  
+  <x-sidenav/>
+  <div class="w-full flex flex-col h-screen overflow-y-hidden"> 
+  <x-headernav/>
   </div>
   <!-- AlpineJS -->
   <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.min.js" defer></script>
