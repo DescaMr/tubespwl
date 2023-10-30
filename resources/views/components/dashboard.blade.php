@@ -1,15 +1,15 @@
-<h1 class="text-3xl text-black pb-6">Dashboard</h1>
+<h1 class="text-3xl text-black pb-6 m-2">Dashboard</h1>
                 <div class="w-full mt-12">
                     <p class="text-xl pb-3 flex items-center">
-                        <i class="fas fa-list mr-3"></i> Latest Reports
+                        <i class="fas fa-list mr-3"></i> Laporan Terbaru
                     </p>
                     <div class="bg-white overflow-auto">
                         <table class="min-w-full bg-white">
                             <thead class="bg-gray-800 text-white">
                                 <tr>
-                                    <th class="w-1/3 text-left py-3 px-4 uppercase font-semibold text-sm">Name</th>
-                                    <th class="w-1/3 text-left py-3 px-4 uppercase font-semibold text-sm">Last name</th>
-                                    <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Phone</th>
+                                    <th class="w-1/3 text-left py-3 px-4 uppercase font-semibold text-sm">Nama Depan</th>
+                                    <th class="w-1/3 text-left py-3 px-4 uppercase font-semibold text-sm">Nama Akhir</th>
+                                    <th class="text-left py-3 px-4 uppercase font-semibold text-sm">No HP</th>
                                     <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Email</th>
                                 </tr>
                             </thead>
