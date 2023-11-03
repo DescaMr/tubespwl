@@ -9,13 +9,13 @@
   <style>
     @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
     .font-family-karla { font-family: karla; }
-    .bg-sidebar { background: #16FF00; }
-    .cta-btn { color: #16FF00; }
-    .upgrade-btn { background: #16FF00; }
-    .upgrade-btn:hover { background: #16FF00; }
-    .active-nav-link { background: #16FF00; }
-    .nav-item:hover { background: #16FF00; }
-    .account-link:hover { background: #16FF00; }
+    .bg-sidebar { background: #00adef; }
+    .cta-btn { color: #00adef; }
+    .upgrade-btn { background: #00adef; }
+    .upgrade-btn:hover { background: #00adef; }
+    .active-nav-link { background: #00adef; }
+    .nav-item:hover { background: #00adef; }
+    .account-link:hover { background: #00adef; }
 </style>
 </head>
 
