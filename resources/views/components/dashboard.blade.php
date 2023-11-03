@@ -5,7 +5,7 @@
                     </p>
                     <div class="bg-white overflow-auto">
                         <table class="min-w-full bg-white">
-                            <thead class="bg-gray-800 text-white">
+                            <thead class="bg-blue-400 text-white">
                                 <tr>
                                     <th class="w-1/3 text-left py-3 px-4 uppercase font-semibold text-sm">Nama Depan</th>
                                     <th class="w-1/3 text-left py-3 px-4 uppercase font-semibold text-sm">Nama Akhir</th>
